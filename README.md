@@ -1,1 +1,1 @@
-# Brorn_Munyratanak
+# MPU6050_Reading
